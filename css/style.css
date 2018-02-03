@@ -1,0 +1,14 @@
+h1{
+    background-color: black;
+    color: yellow;
+    width: 50%;
+}
+
+p {
+    background: green;
+}
+
+.nice {
+    background: white;
+    font-weight: bold;
+}
